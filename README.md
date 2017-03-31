@@ -7,7 +7,7 @@ https://medium.com/@stefanmostert/generating-models-when-a-user-signs-up-rails-h
 
 ## To run this repositry:
 ```
-* $bundle
-* $rake db:migrate
-* $rails s
+$bundle
+$rake db:migrate
+$rails s
 ```
